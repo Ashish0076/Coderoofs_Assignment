@@ -1,0 +1,110 @@
+.App-header {
+    display: flex;
+    margin: 0px 10px;
+  }
+  
+  .App-logo {
+    width: 202.34px;
+    height: 125.89px;
+  }
+  
+  .Group-1055 {
+    width: 15%;
+  }
+  
+  #Group-1055-1 {
+    margin-top: -55px;
+    margin-left: 80px;
+    font-family: Garet;
+    font-size: 30px;
+    font-weight: 850;
+    line-height: 25.01px;
+    letter-spacing: 0.5px;
+    text-align: center;
+    color: #ffffff;
+  }
+  
+  #Group-1055-2 {
+    color: #ffffff;
+    letter-spacing: 0.5px;
+    font-family: Garet;
+    font-size: 16.21px;
+    font-weight: 300;
+    line-height: 22.69px;
+    letter-spacing: 11px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: 87px;
+  }
+  
+  .Group-932 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+    color: white;
+    width: 1101px;
+    height: 90px;
+    width: 85%;
+  }
+  
+  .Group-784 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .upgrade {
+    margin-right: 50px;
+  }
+  .upgrade img {
+    width: 100px;
+    height: 5px;
+    margin-bottom: 12px;
+  }
+  
+  .upgrade h1 {
+    font-family: Garet;
+    font-size: 22.93px;
+    font-weight: 850;
+    line-height: 5px;
+  }
+  
+  .upgrade-line {
+    height: 20px;
+    width: auto;
+  }
+  
+  .coin {
+    margin-right: 50px;
+  }
+  
+  .coin p {
+    margin-top: -50px;
+    color: #474747;
+    font-weight: 800;
+  }
+  
+  .coin img{
+    width: 70px;
+    height: 70px;
+  }
+  
+  .profile img {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    margin-right: 10px;
+    border: 4px solid yellow;
+  }
+  
+  .Logo-Menu a {
+    color: white;
+    text-decoration: none;
+    margin-right: 50px;
+  }
+  
+  .Group-914 h2 {
+    width: 162px;
+    height: 47px;
+  }
+  

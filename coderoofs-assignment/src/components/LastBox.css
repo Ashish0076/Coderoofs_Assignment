@@ -1,0 +1,28 @@
+.lastBox-main {
+  background-image: url("https://s3-alpha-sig.figma.com/img/fad9/9e87/fed173db0343d750b352e4fa5e42f4a7?Expires=1714348800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=gDLw8MABtXtX~agWcxWtjbiX7AzrFwnOvHN6QWVkVYYRevMbKulTLFC~yK7VjRUfJiE-gDp5uWjVSG5VWRudkQShd7mWBQzheY9e5HL~sGn36IT7o8iBkTBgDCa4eFkEahic408HiC7mwEb3OXrSTgD8Yg0e3HYtN6A4h3-N2aomRiL2hrwWHX0QhE5Cl52p70QMZLJzScRIhXtUPs5qBs-YV1IjuruIhwcS8rLt6euwaFfqOdu1O9dph9YSfEAttDGLPEEibH-dnHZLhfS9VBgTioDlAyeociKthwoP08Pt3Wbt4F~pqAWGeKoPGWCFdvGLfld7h9-q1f6o3huLfQ__");
+  background-position: center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  height: 1000px;
+  margin: auto;
+  border: 1px solid #474747;
+  margin-top: -50px;
+}
+
+.lastBox-main button {
+  color: white;
+  background-color: black;
+}
+
+.lastBox-main h1 {
+  margin-left: 70%;
+  width: 422px;
+  height: 49px;
+  font-weight: 800;
+}
+
+.lastBox-main2 {
+  width: 85%;
+  margin: auto;
+  margin-top: 200px;
+}
